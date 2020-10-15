@@ -18,5 +18,5 @@ In the beginning, the daemon will ask you to select a heart-beating style `gossi
 
 The heart-beating style can be switched without exiting the process. Type either `gossip` or `alltoall`, then the style of all the VMs will be switched seamlessly to the new type you just entered.
 
-You can choose to terminate the process by typing `control + c` or type `leave` 
+You can choose to terminate the process by  `Ctr+C` or typing `leave` in the program.
 
